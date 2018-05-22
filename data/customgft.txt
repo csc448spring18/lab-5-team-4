@@ -1,0 +1,13 @@
+contig18	GEP	CDS	15591	15626	.	-	0	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	CDS	14994	15476	.	-	0	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	CDS	13482	13799	.	-	0	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	CDS	11821	12760	.	-	0	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	CDS	10901	11055	.	-	2	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	CDS	9813	10130	.	-	0	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	stop_codon	9810	9812	.	-	.	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	exon	15591	15626	.	-	.	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	exon	14994	15476	.	-	.	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	exon	13482	13799	.	-	.	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	exon	11821	12760	.	-	.	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	exon	10901	11055	.	-	.	gene_id "Slip1"; transcript_id "Slip1-PA";
+contig18	GEP	exon	9813	10130	.	-	.	gene_id "Slip1"; transcript_id "Slip1-PA";

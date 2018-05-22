@@ -1,0 +1,9 @@
+u	GEP	CDS	1247	1986	.	+	0	gene_id "Imagine9"; transcript_id "Imagine9-PC";
+g	GEP	CDS	3616	3926	.	+	1	gene_id "Imagine9"; transcript_id "Imagine9-PC";
+g	GEP	CDS	3999	4622	.	+	2	gene_id "Imagine9"; transcript_id "Imagine9-PC";
+g	GEP	CDS	15251	15588	.	+	2	gene_id "Imagine9"; transcript_id "Imagine9-PC";
+h	GEP	stop_codon	15589	15591	.	+	.	gene_id "Imagine9"; transcript_id "Imagine9-PC";
+h	GEP	exon	1247	1986	.	+	.	gene_id "Imagine9"; transcript_id "Imagine9-PC";
+h	GEP	exon	3616	3926	.	+	.	gene_id "Imagine9"; transcript_id "Imagine9-PC";
+h	GEP	exon	3999	4622	.	+	.	gene_id "Imagine9"; transcript_id "Imagine9-PC";
+h	GEP	exon	15251	15588	.	+	.	gene_id "Imagine9"; transcript_id "Imagine9-PC";

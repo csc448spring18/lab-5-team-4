@@ -1,0 +1,8 @@
+track name="CustomModel" description="Custom Gene Model" color=200,0,0 visibility=3
+contig4	GEP	CDS	2562	2573	.	+	0	gene_id "Cpr76Bc"; transcript_id "Cpr76Bc-PC";
+contig4	GEP	CDS	4232	4372	.	+	0	gene_id "Cpr76Bc"; transcript_id "Cpr76Bc-PC";
+contig4	GEP	CDS	7270	8394	.	+	0	gene_id "Cpr76Bc"; transcript_id "Cpr76Bc-PC";
+contig4	GEP	stop_codon	8395	8397	.	+	.	gene_id "Cpr76Bc"; transcript_id "Cpr76Bc-PC";
+contig4	GEP	exon	2562	2573	.	+	.	gene_id "Cpr76Bc"; transcript_id "Cpr76Bc-PC";
+contig4	GEP	exon	4232	4372	.	+	.	gene_id "Cpr76Bc"; transcript_id "Cpr76Bc-PC";
+contig4	GEP	exon	7270	8394	.	+	.	gene_id "Cpr76Bc"; transcript_id "Cpr76Bc-PC";
