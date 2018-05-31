@@ -2,4 +2,3 @@ ipywidgets
 matplotlib
 pandas
 regex
-enum
